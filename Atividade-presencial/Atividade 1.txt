@@ -1,0 +1,16 @@
+Defina o que é :
+1) Dado:
+ 
+ Expressões que descrevem características de entidades e que quando processadas constituem uma informação. 
+
+2) Informação:
+
+ É um conjunto organizado de dados que por sua vez constituem e configuram um recurso.
+
+3) Arquivo Convencional:
+
+ Os sistemas de arquivos convecionais possuem a característica de poderem tornar arquivoscomuns em comprimidos e ainda assim permitindo que eles sejam acessados.
+
+4) Banco de Dados:
+
+ É conjunto de dados/informações organizados e armazenados que se relacionam entre si para formar um registro ou agrupamento de conteúdos específicos.
