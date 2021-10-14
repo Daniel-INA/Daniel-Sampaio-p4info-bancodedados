@@ -1,0 +1,4 @@
+Explique a seguinte afirmação: "Um Modelo de refletir o seu aspecto temporal"
+
+Explicação:
+A afirmação se refere às informações que se passam no dercorrer do desenvolvimento do modelo de banco de dados, evidenciando as informações históricas ao invés de somente as atuais.
